@@ -1,4 +1,0 @@
-﻿  neww.cpp
-C:\Users\muham\source\repos\neww\neww\neww.cpp(128,14): warning C4552: '+': result of expression not used
-C:\Users\muham\source\repos\neww\neww\neww.cpp(130,1): warning C4715: 'SimpleCalculator': not all control paths return a value
-  neww.vcxproj -> C:\Users\muham\source\repos\neww\x64\Debug\neww.exe
